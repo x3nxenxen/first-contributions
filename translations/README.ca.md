@@ -6,11 +6,11 @@
 
 # Primeres Contribucions
 
-És difícil. Sempre es difícil fer una cosa per primera vegada. Sobretot quan es col·labora amb altres, ja que equivocar-se no és gens agradable. Volem simplificar la manera d'aprendre a contribuir i col·laborar en projectes de codi obert per primera vegada.
+És complex. Sempre és difícil fer quelcom per primera vegada, especialment quan es col·labora amb altres, ja que equivocar-se no és gens agradable. El nostre objectiu és simplificar la manera en què els nous contribuïdors de _codi obert_ aprenen i contribueixen per primera vegada.
 
-Llegir articles i mirar tutorials pot ser útil, però què millor que fer les coses en un entorn pràctic real? Aquest projecte és una guia per a principiants que vol simplificar la primera contribució a projectes de codi oberts. Si vols fer la teva primera contribució, segueix les instruccions que es mostren a continuació: 
+Llegir articles i mirar tutorials pot ajudar, però, què millor que fer les coses en un entorn pràctic real? Aquest projecte es focalitza en ser una guia per a principiants que vol simplificar la forma en què fan la seva primera contribució. Si vols fer la teva primera contribució, segueix les instruccions que es mostren a continuació: 
 
-#### *Si no et sents còmode/a amb la línia d'ordres (*Command Line*), [aquí trobaràs tutorials utilitzant eines que tenen Interfície Gràfica (GUI)](#Tutorials-amb-Altres-Eines)*
+#### *Si no et sents còmode/a amb la línia d'ordres (*Command Line*), [aquí trobaràs tutorials que utilitzen eines que tenen Interfície Gràfica (GUI)](#Tutorials-amb-Altres-Eines)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fer fork d'aquest repositori" />
 
@@ -32,7 +32,7 @@ Obre una terminal/línia d'ordre i executa el següent comandament de git:
 ```
 git clone "url que acabes de copiar"
 ```
-on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest repositori (la vostra bifurcació o *fork* d'aquest projecte). Per obtenir la *url*, torna als passos anteriors.
+on "url que acabeu de copiar" (sense cometes dobles) és l'*url* per a aquest repositori (la teva bifurcació o *fork* d'aquest projecte). Per obtenir l'*url*, torna als passos anteriors.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al porta-retalls" />
 
@@ -44,7 +44,7 @@ on `aquest-soc-jo` és el teu nom d'usuari de GitHub. En aquest pas, estàs copi
 
 ## Crea una branca (*branch*)
 
-Canvieu al directori del repositori del vostre ordinador (si no hi esteu allà ja):
+Canvia al directori del repositori del teu ordinador (si no hi ets ja allà):
 
 ```
 cd first-contributions
@@ -58,11 +58,11 @@ Per exemple:
 ```
 git checkout -b add-nom-cognom
 ```
-(No fa falta que el nom de la branca contingui la paraula *add* però és recomanable, ja que l'objectiu d'aquesta branca és afegir el teu nom a la llista.)
+(No cal que el nom de la branca contingui la paraula *add* però és recomanable, ja que l'objectiu d'aquesta branca és afegir el teu nom a la llista.)
 
 ## Fes els canvis necessaris i confirma (*commit*) els canvis
 
-Obre l'arxiu `Contributors.md` en un editor de text i afegeix-hi el teu nom. No l'afegeixis ni al principi, ni al final de l'arxiu. Posa'l en qualsevol altre posició. Llavors desa l'arxiu.
+Obre l'arxiu `Contributors.md` en un editor de text i afegeix el teu nom. No l'afegeixis ni al principi, ni al final de l'arxiu. Posa'l a qualsevol altra posició. Llavors desa l'arxiu.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -104,7 +104,7 @@ Quan un administrador vegi la solicitud, la revisarà i incorporarà els teus ca
 
 ## I ara què?
 
-Enhorabona! Acabes de completar el procés de treball principal que et trobaràs com a col·laborador de projectes de codi obert: *_fork -> clone -> edit -> PR_*.
+Enhorabona! Acabes de completar el flux de treball habitual que et trobaràs com a col·laborador de projectes de codi obert: *_fork -> clone -> edit -> PR_*.
 
 Ara, celebra la teva contribució i comparteix-la amb els teus amics i seguidors anant a [la web](https://firstcontributions.github.io/#social-share).
 
